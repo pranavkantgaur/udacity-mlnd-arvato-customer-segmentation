@@ -1,1 +1,1 @@
-# udacity-mlnd-arvato-customer-segmentation-code
+# udacity-mlnd-arvato-customer-segmentation
